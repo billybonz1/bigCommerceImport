@@ -1,0 +1,93 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0063002221-P",
+    "name": "Go! Go! Cory Carson: Meet Cory Carson Board Book",
+    "vendor": "HarperFestival",
+    "short_description": "<b>Go! Go! Cory Carson: Meet Cory Carson Board Book</b>",
+    "description": "<b>Go! Go! Cory Carson: Meet Cory Carson Board Book</b>",
+    "tags": [
+        "Cars & Trucks",
+        "Cars, Trains & Things That Go",
+        "Children's Books",
+        "Subjects",
+        "Books",
+        "City Life",
+        "Where We Live",
+        "Geography & Cultures"
+    ],
+    "categories": [
+        {
+            "name": "Cars & Trucks",
+            "desc": "Children's Cars & Trucks Books",
+            "sales_rank": 555,
+            "is_root": false,
+            "category_id": "3291",
+            "ancestor_id": "3284"
+        },
+        {
+            "name": "City Life",
+            "desc": "Children's City Life Books",
+            "sales_rank": 305,
+            "is_root": false,
+            "category_id": "3168",
+            "ancestor_id": "3167"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/51EexV7pWpL._SL500_.jpg",
+            "name": "51EexV7pWpL._SL500_.jpg",
+            "alt": "51EexV7pWpL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0063002221"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/41CgcMjsL9S._SL500_.jpg",
+            "name": "41CgcMjsL9S._SL500_.jpg",
+            "alt": "41CgcMjsL9S._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0063002221"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/41o-mGFzjtS._SL500_.jpg",
+            "name": "41o-mGFzjtS._SL500_.jpg",
+            "alt": "41o-mGFzjtS._SL500_.jpg",
+            "position": 3,
+            "skus": [
+                "AZ0063002221"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0063002221",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": true,
+            "height": 6.1,
+            "length": 7,
+            "weight": 0.57540650382,
+            "weight_unit": "lb",
+            "width": 0.7,
+            "release_date": "2020-06-02T00:00:01Z",
+            "unit_count": 1,
+            "cost": 8.99,
+            "price": 10.61,
+            "compare_at_price": null,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": true
+}

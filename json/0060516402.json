@@ -1,0 +1,197 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0060516402-P",
+    "name": "Built to Last: Successful Habits of Visionary Companies (Good to Great, 2)",
+    "vendor": "Harper Business",
+    "short_description": "<b>Built to Last: Successful Habits of Visionary Companies (Good to Great, 2)</b>",
+    "description": "<b>Built to Last: Successful Habits of Visionary Companies (Good to Great, 2)</b><ul><li>Great product!</li></ul>",
+    "tags": [
+        "Company Profiles",
+        "Biography & History",
+        "Business & Money",
+        "Subjects",
+        "Books",
+        "Environmental Economics",
+        "Economics",
+        "Sustainable Development",
+        "Decision-Making & Problem Solving",
+        "Management & Leadership",
+        "Leadership & Motivation",
+        "Management",
+        "Management Science",
+        "Total Quality Management",
+        "Quality Control & Management",
+        "Entrepreneurship",
+        "Business Development & Entrepreneurship",
+        "Processes & Infrastructure",
+        "Decision Making",
+        "Skills"
+    ],
+    "categories": [
+        {
+            "name": "Company Profiles",
+            "desc": "Company Business Profiles",
+            "is_root": false,
+            "category_id": "2542",
+            "ancestor_id": "2538"
+        },
+        {
+            "name": "Environmental Economics",
+            "desc": "Environmental Economics",
+            "sales_rank": 10,
+            "is_root": false,
+            "category_id": "1043856",
+            "ancestor_id": "2581"
+        },
+        {
+            "name": "Sustainable Development",
+            "desc": "Sustainable Business Development",
+            "sales_rank": 3,
+            "is_root": false,
+            "category_id": "2601",
+            "ancestor_id": "2581"
+        },
+        {
+            "name": "Decision-Making & Problem Solving",
+            "desc": "Decision-Making & Problem Solving",
+            "is_root": false,
+            "category_id": "2679",
+            "ancestor_id": "2675"
+        },
+        {
+            "name": "Leadership & Motivation",
+            "desc": "Leadership & Motivation",
+            "is_root": false,
+            "category_id": "2682",
+            "ancestor_id": "2675"
+        },
+        {
+            "name": "Management",
+            "desc": "Business Management",
+            "is_root": false,
+            "category_id": "2683",
+            "ancestor_id": "2675"
+        },
+        {
+            "name": "Management Science",
+            "desc": "Management Science",
+            "is_root": false,
+            "category_id": "2684",
+            "ancestor_id": "2675"
+        },
+        {
+            "name": "Total Quality Management",
+            "desc": "Total Quality Management",
+            "sales_rank": 6,
+            "is_root": false,
+            "category_id": "2696",
+            "ancestor_id": "10020711011"
+        },
+        {
+            "name": "Entrepreneurship",
+            "desc": "Entrepreneurship",
+            "is_root": false,
+            "category_id": "2745",
+            "ancestor_id": "2741"
+        },
+        {
+            "name": "Processes & Infrastructure",
+            "desc": "Business Processes & Infrastructure",
+            "is_root": false,
+            "category_id": "355561011",
+            "ancestor_id": "3"
+        },
+        {
+            "name": "Decision Making",
+            "desc": "Business Decision Making",
+            "is_root": false,
+            "category_id": "10020716011",
+            "ancestor_id": "355562011"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/413Yf8aCAmL._SL500_.jpg",
+            "name": "413Yf8aCAmL._SL500_.jpg",
+            "alt": "413Yf8aCAmL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0060516402"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51gOdck-+BL._SL500_.jpg",
+            "name": "51gOdck-+BL._SL500_.jpg",
+            "alt": "51gOdck-+BL._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0060516402"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/31TA0q6WeYL._SL500_.jpg",
+            "name": "31TA0q6WeYL._SL500_.jpg",
+            "alt": "31TA0q6WeYL._SL500_.jpg",
+            "position": 3,
+            "skus": [
+                "AZ0060516402"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/11f8x+JAnsL._SL500_.jpg",
+            "name": "11f8x+JAnsL._SL500_.jpg",
+            "alt": "11f8x+JAnsL._SL500_.jpg",
+            "position": 4,
+            "skus": [
+                "AZ0060516402"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/4108YFje1dL._SL500_.jpg",
+            "name": "4108YFje1dL._SL500_.jpg",
+            "alt": "4108YFje1dL._SL500_.jpg",
+            "position": 5,
+            "skus": [
+                "AZ0060516402"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/31dDUUrkc+L._SL500_.jpg",
+            "name": "31dDUUrkc+L._SL500_.jpg",
+            "alt": "31dDUUrkc+L._SL500_.jpg",
+            "position": 6,
+            "skus": [
+                "AZ0060516402"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0060516402",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": true,
+            "is_adult_product": false,
+            "height": 8,
+            "length": 5.31,
+            "weight": 0.6,
+            "weight_unit": "lb",
+            "width": 0.83,
+            "release_date": "2004-06-24T00:00:01Z",
+            "unit_count": 1,
+            "cost": 15.89,
+            "price": 18.75,
+            "compare_at_price": 18.99,
+            "in_stock": true,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": true
+}

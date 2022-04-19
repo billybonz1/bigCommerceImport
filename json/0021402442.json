@@ -1,0 +1,101 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0021402442-P",
+    "name": "Carpentry & Building Construction, Student Edition, 2016",
+    "vendor": "McGraw-Hill Education",
+    "short_description": "<b>Carpentry & Building Construction, Student Edition, 2016</b>",
+    "description": "<b>Carpentry & Building Construction, Student Edition, 2016</b>",
+    "tags": [
+        "Thresholds",
+        "Door Hardware & Locks",
+        "Hardware",
+        "Tools & Home Improvement",
+        "Design & Construction",
+        "How-to & Home Improvements",
+        "Home Improvement & Design",
+        "Crafts, Hobbies & Home",
+        "Subjects",
+        "Books",
+        "Carpentry",
+        "Construction",
+        "Engineering",
+        "Engineering & Transportation"
+    ],
+    "categories": [
+        {
+            "name": "Thresholds",
+            "desc": "Thresholds",
+            "sales_rank": 207,
+            "is_root": false,
+            "category_id": "511300",
+            "ancestor_id": "511276"
+        },
+        {
+            "name": "Design & Construction",
+            "desc": "Home Design & Construction",
+            "sales_rank": 504,
+            "is_root": false,
+            "category_id": "5322",
+            "ancestor_id": "5339"
+        },
+        {
+            "name": "Carpentry",
+            "desc": "Carpentry",
+            "sales_rank": 172,
+            "is_root": false,
+            "category_id": "5343",
+            "ancestor_id": "5339"
+        },
+        {
+            "name": "Construction",
+            "desc": "Construction Engineering",
+            "is_root": false,
+            "category_id": "8082404011",
+            "ancestor_id": "173515"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/511QbiOnlIL._SL500_.jpg",
+            "name": "511QbiOnlIL._SL500_.jpg",
+            "alt": "511QbiOnlIL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0021402442"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51RWnFe921L._SL500_.jpg",
+            "name": "51RWnFe921L._SL500_.jpg",
+            "alt": "51RWnFe921L._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0021402442"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0021402442",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": false,
+            "height": 11.1,
+            "length": 8.8,
+            "weight": 5.41,
+            "weight_unit": "lb",
+            "width": 1.8,
+            "unit_count": 1,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": false
+}

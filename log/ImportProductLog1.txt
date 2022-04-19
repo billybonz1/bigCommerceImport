@@ -1,0 +1,288 @@
+1650304943416 
+1650304943417 
+1650304943418 
+1650304943419 
+1650304943420 
+1650304943420 
+1650304943421 
+1650304943422 
+1650304966359 
+1650304966368 
+1650304966370 
+1650304966371 
+1650304966373 
+1650304966374 
+1650304966376 
+1650304966378 
+1650304985272 
+1650304985293 
+1650304985315 
+1650304985337 
+1650304985381 
+1650304985437 
+1650304985478 
+1650304985508 
+1650305449657 
+1650305449676 
+1650305449680 
+1650305449685 
+1650305449700 
+1650305449719 
+1650305449723 
+1650305449726 
+1650362455121 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650362455201 
+0007115024.json
+index:0
+Before create product with sku : AZ0007115024-P
+1650362455209 
+0008368295.json
+index:0
+Before create product with sku : AZ0008368295-P
+1650362455215 
+0021402442.json
+index:0
+Before create product with sku : AZ0021402442-P
+1650362455222 
+0060516402.json
+index:0
+Before create product with sku : AZ0060516402-P
+1650362455227 
+0062486144.json
+index:0
+Before create product with sku : AZ0062486144-P
+1650362455232 
+0063002221.json
+index:0
+Before create product with sku : AZ0063002221-P
+1650362455238 
+0071824502.json
+index:0
+Before create product with sku : AZ0071824502-P
+1650363188781 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650363188892 
+0007115024.json
+index:0
+Before create product with sku : AZ0007115024-P
+1650363188901 
+0008368295.json
+index:0
+Before create product with sku : AZ0008368295-P
+1650363188907 
+0021402442.json
+index:0
+Before create product with sku : AZ0021402442-P
+1650363188914 
+0060516402.json
+index:0
+Before create product with sku : AZ0060516402-P
+1650363188921 
+0062486144.json
+index:0
+Before create product with sku : AZ0062486144-P
+1650363188927 
+0063002221.json
+index:0
+Before create product with sku : AZ0063002221-P
+1650363188938 
+0071824502.json
+index:0
+Before create product with sku : AZ0071824502-P
+1650363629929 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650363630034 
+0007115024.json
+index:0
+Before create product with sku : AZ0007115024-P
+1650363630041 
+0008368295.json
+index:0
+Before create product with sku : AZ0008368295-P
+1650363630047 
+0021402442.json
+index:0
+Before create product with sku : AZ0021402442-P
+1650363630052 
+0060516402.json
+index:0
+Before create product with sku : AZ0060516402-P
+1650363630058 
+0062486144.json
+index:0
+Before create product with sku : AZ0062486144-P
+1650363630063 
+0063002221.json
+index:0
+Before create product with sku : AZ0063002221-P
+1650363630071 
+0071824502.json
+index:0
+Before create product with sku : AZ0071824502-P
+1650363683677 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650363850707 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650365978174 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650366070900 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650366717937 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+done create product with sku : AZ0000098906-P
+1650367408306 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650367539066 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+done create product with sku : AZ0000098906-P
+1650373002521 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+done create product with sku : AZ0000098906-P
+1650373104705 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650374472023 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+Create Variation on products
+1650374541520 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+done create product with sku : AZ0000098906-P
+Create Variation on products
+1650374799293 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650375291338 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+Create Variation on products
+1650375505990 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650375640426 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650375664480 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+done create product with sku : AZ0000098906-P
+Create Variation on products
+1650376362875 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650376424260 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+Create Variation on products
+Import Variation with sku: AZ0000098906
+Done Import Variation with sku: AZ0000098906
+Create successfuly 
+  --------------------- 
+1650376845805 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+Import product but had existed product like variation with sku AZ0000098906-P
+ -------------------------
+1650376897334 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+Create Variation on products
+Import Variation with sku: AZ0000098906
+Done Import Variation with sku: AZ0000098906
+Create successfuly 
+  --------------------- 
+1650377311121 
+0000098906.json
+index:0
+Before create product with sku : AZ0000098906-P
+1650377311238 
+0007115024.json
+index:0
+Before create product with sku : AZ0007115024-P
+1650377311247 
+0008368295.json
+index:0
+Before create product with sku : AZ0008368295-P
+1650377311253 
+0021402442.json
+index:0
+Before create product with sku : AZ0021402442-P
+1650377311259 
+0060516402.json
+index:0
+Before create product with sku : AZ0060516402-P
+1650377311264 
+0062486144.json
+index:0
+Before create product with sku : AZ0062486144-P
+1650377311269 
+0063002221.json
+index:0
+Before create product with sku : AZ0063002221-P
+1650377311277 
+0071824502.json
+index:0
+Before create product with sku : AZ0071824502-P
+Import product but had existed product like variation with sku AZ0000098906-P
+ -------------------------
+Create Variation on products
+Create Variation on products
+Import Variation with sku: AZ0071824502
+Import Variation with sku: AZ0063002221
+Done Import Variation with sku: AZ0071824502
+Done Import Variation with sku: AZ0063002221
+Create successfuly 
+  --------------------- 
+Create successfuly 
+  --------------------- 
+Create Variation on products
+Import Variation with sku: AZ0007115024
+Create Variation on products
+Done Import Variation with sku: AZ0007115024
+Create Variation on products
+Create successfuly 
+  --------------------- 
+Import Variation with sku: AZ0008368295
+Import Variation with sku: AZ0021402442
+Done Import Variation with sku: AZ0008368295
+Done Import Variation with sku: AZ0021402442
+Create successfuly 
+  --------------------- 
+Create successfuly 
+  --------------------- 

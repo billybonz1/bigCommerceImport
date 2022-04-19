@@ -1,0 +1,108 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0008368295-P",
+    "name": "Tartans Map of Scotland (Collins Pictorial Maps)",
+    "vendor": "Collins",
+    "short_description": "<b>Tartans Map of Scotland (Collins Pictorial Maps)</b>",
+    "description": "<b>Tartans Map of Scotland (Collins Pictorial Maps)</b>",
+    "tags": [
+        "Scotland",
+        "Great Britain",
+        "Europe",
+        "History",
+        "Subjects",
+        "Books",
+        "Reference",
+        "Transportation",
+        "Engineering & Transportation",
+        "Historical",
+        "Atlases & Maps",
+        "Travel Maps",
+        "Travel",
+        "General"
+    ],
+    "categories": [
+        {
+            "name": "Scotland",
+            "desc": "Scotland History",
+            "is_root": false,
+            "category_id": "4974",
+            "ancestor_id": "9332123011"
+        },
+        {
+            "name": "Reference",
+            "desc": "Transportation Reference",
+            "sales_rank": 116,
+            "is_root": false,
+            "category_id": "11957",
+            "ancestor_id": "11934"
+        },
+        {
+            "name": "Historical",
+            "desc": "Historical Atlases & Maps",
+            "sales_rank": 810,
+            "is_root": false,
+            "category_id": "11452",
+            "ancestor_id": "11448"
+        },
+        {
+            "name": "Travel Maps",
+            "desc": "Maps",
+            "is_root": false,
+            "category_id": "11453",
+            "ancestor_id": "11448"
+        },
+        {
+            "name": "Scotland",
+            "desc": "Scotland Travel Guides",
+            "sales_rank": 468,
+            "is_root": false,
+            "category_id": "16956",
+            "ancestor_id": "16946"
+        },
+        {
+            "name": "General",
+            "desc": "General Great Britain Travel Guides",
+            "is_root": false,
+            "category_id": "16952",
+            "ancestor_id": "16946"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/510mqMGcEbL._SL500_.jpg",
+            "name": "510mqMGcEbL._SL500_.jpg",
+            "alt": "510mqMGcEbL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0008368295"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0008368295",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": true,
+            "height": 9.29,
+            "length": 5.47,
+            "width": 0.3,
+            "release_date": "2020-05-01T00:00:01Z",
+            "unit_count": 1,
+            "cost": 8.95,
+            "price": 10.56,
+            "compare_at_price": null,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": true
+}

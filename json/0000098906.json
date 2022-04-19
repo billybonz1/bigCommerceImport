@@ -1,0 +1,60 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0000098906-P",
+    "name": "Wooden Percussion 3 Piece Set 3 Inch Wooden Frog, 4 Inch Wooden Cricket and 3.5 Inches Wooden Owl.",
+    "vendor": "WADSUWAN SHOP",
+    "short_description": "<b>Wooden Percussion 3 Piece Set 3 Inch Wooden Frog, 4 Inch Wooden Cricket and 3.5 Inches Wooden Owl.</b>",
+    "description": "<b>Wooden Percussion 3 Piece Set 3 Inch Wooden Frog, 4 Inch Wooden Cricket and 3.5 Inches Wooden Owl.</b><ul><li>Wood percussion</li><li>Creates original \"animal\" sound</li><li>Includes wooden scraper for frog and cricket</li><li>For 3 year up</li></ul>",
+    "tags": [
+        "Guiros",
+        "Latin Percussion",
+        "Folk & World",
+        "Hand Percussion",
+        "Drums & Percussion",
+        "Products",
+        "Musical Instruments"
+    ],
+    "categories": [
+        {
+            "name": "Guiros",
+            "desc": "Guiros",
+            "sales_rank": 56,
+            "is_root": false,
+            "category_id": "11972551",
+            "ancestor_id": "4972148011"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/41pXIqRE-BL._SL500_.jpg",
+            "name": "41pXIqRE-BL._SL500_.jpg",
+            "alt": "41pXIqRE-BL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0000098906"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0000098906",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": false,
+            "height": 3,
+            "length": 3,
+            "width": 1,
+            "unit_count": 1,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": false
+}

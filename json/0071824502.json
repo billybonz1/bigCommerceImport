@@ -1,0 +1,110 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0071824502-P",
+    "name": "The Product Manager's Desk Reference 2E",
+    "vendor": "McGraw-Hill Education",
+    "short_description": "<b>The Product Manager's Desk Reference 2E</b>",
+    "description": "<b>The Product Manager's Desk Reference 2E</b><ul><li>McGraw-Hill</li></ul>",
+    "tags": [
+        "Management",
+        "Management & Leadership",
+        "Business & Money",
+        "Subjects",
+        "Books",
+        "Product Management",
+        "Marketing",
+        "Marketing & Sales",
+        "Business & Finance",
+        "New, Used & Rental Textbooks",
+        "Specialty Boutique"
+    ],
+    "categories": [
+        {
+            "name": "Management",
+            "desc": "Business Management",
+            "is_root": false,
+            "category_id": "2683",
+            "ancestor_id": "2675"
+        },
+        {
+            "name": "Product Management",
+            "desc": "Product Management",
+            "sales_rank": 105,
+            "is_root": false,
+            "category_id": "2708",
+            "ancestor_id": "2702"
+        },
+        {
+            "name": "Marketing",
+            "desc": "Business Marketing",
+            "sales_rank": 329,
+            "is_root": false,
+            "category_id": "491624",
+            "ancestor_id": "468220"
+        },
+        {
+            "name": "Management",
+            "desc": "Business Management",
+            "sales_rank": 956,
+            "is_root": false,
+            "category_id": "684248011",
+            "ancestor_id": "468220"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/51fL2Dgt6pL._SL500_.jpg",
+            "name": "51fL2Dgt6pL._SL500_.jpg",
+            "alt": "51fL2Dgt6pL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0071824502"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51ovwuvC-dL._SL500_.jpg",
+            "name": "51ovwuvC-dL._SL500_.jpg",
+            "alt": "51ovwuvC-dL._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0071824502"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/416QPqj+8hL._SL500_.jpg",
+            "name": "416QPqj+8hL._SL500_.jpg",
+            "alt": "416QPqj+8hL._SL500_.jpg",
+            "position": 3,
+            "skus": [
+                "AZ0071824502"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0071824502",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": true,
+            "height": 9.4,
+            "length": 7.7,
+            "weight": 3.60014873846,
+            "weight_unit": "lb",
+            "width": 1.8,
+            "unit_count": 1,
+            "cost": 90.76,
+            "price": 107.1,
+            "compare_at_price": null,
+            "in_stock": true,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": true
+}

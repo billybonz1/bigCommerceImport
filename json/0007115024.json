@@ -1,0 +1,127 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0007115024-P",
+    "name": "Fibromyalgia and Muscle Pain: Your Self-Treatment Guide",
+    "vendor": "Thorsons",
+    "short_description": "<b>Fibromyalgia and Muscle Pain: Your Self-Treatment Guide</b>",
+    "description": "<b>Fibromyalgia and Muscle Pain: Your Self-Treatment Guide</b>",
+    "tags": [
+        "Chronic Fatigue Syndrome & Fibromyalgia",
+        "Diseases & Physical Ailments",
+        "Health, Fitness & Dieting",
+        "Subjects",
+        "Books",
+        "Musculoskeletal Diseases",
+        "Pain Management",
+        "Reference",
+        "Rheumatology",
+        "Internal Medicine",
+        "Medicine",
+        "Medical Books"
+    ],
+    "categories": [
+        {
+            "name": "Chronic Fatigue Syndrome & Fibromyalgia",
+            "desc": "Chronic Fatigue Syndrome & Fibromyalgia",
+            "sales_rank": 1053,
+            "is_root": false,
+            "category_id": "282823",
+            "ancestor_id": "4656"
+        },
+        {
+            "name": "Musculoskeletal Diseases",
+            "desc": "Musculoskeletal Diseases",
+            "is_root": false,
+            "category_id": "282830",
+            "ancestor_id": "4656"
+        },
+        {
+            "name": "Pain Management",
+            "desc": "Pain Management",
+            "is_root": false,
+            "category_id": "282848",
+            "ancestor_id": "4656"
+        },
+        {
+            "name": "Reference",
+            "desc": "Disorders & Diseases Reference",
+            "sales_rank": 330,
+            "is_root": false,
+            "category_id": "282832",
+            "ancestor_id": "4656"
+        },
+        {
+            "name": "Reference",
+            "desc": "Health, Mind & Body Reference",
+            "is_root": false,
+            "category_id": "4728",
+            "ancestor_id": "10"
+        },
+        {
+            "name": "Rheumatology",
+            "desc": "Rheumatology",
+            "sales_rank": 854,
+            "is_root": false,
+            "category_id": "227213",
+            "ancestor_id": "227203"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/418hpqUVapL._SL500_.jpg",
+            "name": "418hpqUVapL._SL500_.jpg",
+            "alt": "418hpqUVapL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0007115024"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/41Fe9ZEiEiL._SL500_.jpg",
+            "name": "41Fe9ZEiEiL._SL500_.jpg",
+            "alt": "41Fe9ZEiEiL._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0007115024"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/31K+G50TAmL._SL500_.jpg",
+            "name": "31K+G50TAmL._SL500_.jpg",
+            "alt": "31K+G50TAmL._SL500_.jpg",
+            "position": 3,
+            "skus": [
+                "AZ0007115024"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0007115024",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": true,
+            "is_adult_product": false,
+            "height": 8.5,
+            "length": 0.03,
+            "weight": 1.11112980048,
+            "weight_unit": "lb",
+            "width": 6.26,
+            "release_date": "2001-08-31T00:00:01Z",
+            "unit_count": 1,
+            "cost": 9.99,
+            "price": 11.79,
+            "compare_at_price": null,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": true
+}

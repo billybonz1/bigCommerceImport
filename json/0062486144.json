@@ -1,0 +1,213 @@
+{
+    "supplier": "Amazon",
+    "sku": "AZ0062486144-P",
+    "name": "Middle-earth from Script to Screen: Building the World of The Lord of the Rings and The Hobbit",
+    "vendor": "Harper Design",
+    "short_description": "<b>Middle-earth from Script to Screen: Building the World of The Lord of the Rings and The Hobbit</b>",
+    "description": "<b>Middle-earth from Script to Screen: Building the World of The Lord of the Rings and The Hobbit</b>",
+    "tags": [
+        "Performing Arts",
+        "Arts & Photography",
+        "Subjects",
+        "Books",
+        "Film & Video Art",
+        "Photography & Video",
+        "Textile & Costume",
+        "Decorative Arts & Design",
+        "Direction & Production",
+        "Movies",
+        "Humor & Entertainment",
+        "Screenwriting",
+        "Video",
+        "Genre Films"
+    ],
+    "categories": [
+        {
+            "name": "Performing Arts",
+            "desc": "Performing Arts",
+            "is_root": false,
+            "category_id": "521000",
+            "ancestor_id": "1"
+        },
+        {
+            "name": "Film & Video Art",
+            "desc": "Art of Film & Video",
+            "is_root": false,
+            "category_id": "8622819011",
+            "ancestor_id": "2020"
+        },
+        {
+            "name": "Textile & Costume",
+            "desc": "Textile & Costume",
+            "sales_rank": 649,
+            "is_root": false,
+            "category_id": "1854",
+            "ancestor_id": "336832011"
+        },
+        {
+            "name": "Direction & Production",
+            "desc": "Movie Direction & Production",
+            "is_root": false,
+            "category_id": "4491",
+            "ancestor_id": "4484"
+        },
+        {
+            "name": "Screenwriting",
+            "desc": "Screenwriting",
+            "sales_rank": 632,
+            "is_root": false,
+            "category_id": "4500",
+            "ancestor_id": "4484"
+        },
+        {
+            "name": "Direction & Production",
+            "desc": "Video Direction & Production",
+            "sales_rank": 883,
+            "is_root": false,
+            "category_id": "4502",
+            "ancestor_id": "4501"
+        },
+        {
+            "name": "Genre Films",
+            "desc": "Genre Films",
+            "is_root": false,
+            "category_id": "194810011",
+            "ancestor_id": "4484"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://m.media-amazon.com/images/I/51urT2nP8oL._SL500_.jpg",
+            "name": "51urT2nP8oL._SL500_.jpg",
+            "alt": "51urT2nP8oL._SL500_.jpg",
+            "position": 1,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51BaBeQUojL._SL500_.jpg",
+            "name": "51BaBeQUojL._SL500_.jpg",
+            "alt": "51BaBeQUojL._SL500_.jpg",
+            "position": 2,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51n2ksJpNsL._SL500_.jpg",
+            "name": "51n2ksJpNsL._SL500_.jpg",
+            "alt": "51n2ksJpNsL._SL500_.jpg",
+            "position": 3,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51esFglRpyL._SL500_.jpg",
+            "name": "51esFglRpyL._SL500_.jpg",
+            "alt": "51esFglRpyL._SL500_.jpg",
+            "position": 4,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51pQ5Gg6hHL._SL500_.jpg",
+            "name": "51pQ5Gg6hHL._SL500_.jpg",
+            "alt": "51pQ5Gg6hHL._SL500_.jpg",
+            "position": 5,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51Gs9ZAaPuL._SL500_.jpg",
+            "name": "51Gs9ZAaPuL._SL500_.jpg",
+            "alt": "51Gs9ZAaPuL._SL500_.jpg",
+            "position": 6,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51GB+2jIk1L._SL500_.jpg",
+            "name": "51GB+2jIk1L._SL500_.jpg",
+            "alt": "51GB+2jIk1L._SL500_.jpg",
+            "position": 7,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51qq62n3A7L._SL500_.jpg",
+            "name": "51qq62n3A7L._SL500_.jpg",
+            "alt": "51qq62n3A7L._SL500_.jpg",
+            "position": 8,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/517WAvr1wRL._SL500_.jpg",
+            "name": "517WAvr1wRL._SL500_.jpg",
+            "alt": "517WAvr1wRL._SL500_.jpg",
+            "position": 9,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51kLng1UxnL._SL500_.jpg",
+            "name": "51kLng1UxnL._SL500_.jpg",
+            "alt": "51kLng1UxnL._SL500_.jpg",
+            "position": 10,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/41oslGzT-ML._SL500_.jpg",
+            "name": "41oslGzT-ML._SL500_.jpg",
+            "alt": "41oslGzT-ML._SL500_.jpg",
+            "position": 11,
+            "skus": [
+                "AZ0062486144"
+            ]
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51A3IhAGJbL._SL500_.jpg",
+            "name": "51A3IhAGJbL._SL500_.jpg",
+            "alt": "51A3IhAGJbL._SL500_.jpg",
+            "position": 12,
+            "skus": [
+                "AZ0062486144"
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "sku": "AZ0062486144",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": false,
+            "height": 12,
+            "length": 10,
+            "weight": 7.51,
+            "weight_unit": "lb",
+            "width": 1.5,
+            "release_date": "2017-11-21T00:00:01Z",
+            "unit_count": 1,
+            "in_stock": false,
+            "default": "Default"
+        }
+    ],
+    "options": [
+        {
+            "name": "Default",
+            "values": [
+                "Default"
+            ]
+        }
+    ],
+    "published": false
+}
