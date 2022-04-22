@@ -16,7 +16,7 @@
     ],
     "categories": [
         {
-            "name": "Guiros",
+            "name": "Guiros1",
             "desc": "Guiros",
             "sales_rank": 56,
             "is_root": false,
@@ -28,7 +28,7 @@
         {
             "src": "https://m.media-amazon.com/images/I/41pXIqRE-BL._SL500_.jpg",
             "name": "41pXIqRE-BL._SL500_.jpg",
-            "alt": "41pXIqRE-BL._SL500_.jpg",
+            "alt": "41pXIqRE-BL._SL500_1.jpg",
             "position": 1,
             "skus": [
                 "AZ0000098906"
@@ -43,6 +43,19 @@
             "height": 3,
             "length": 3,
             "width": 1,
+            "price": 1,
+            "unit_count": 1,
+            "in_stock": false,
+            "default": "Default1"
+        },
+        {
+            "sku": "AZ00000989061",
+            "fulfillment_service": "manual",
+            "is_prime_shipping": false,
+            "height": 3,
+            "length": 3,
+            "width": 1,
+            "price": 1,
             "unit_count": 1,
             "in_stock": false,
             "default": "Default"
@@ -50,9 +63,10 @@
     ],
     "options": [
         {
-            "name": "Default",
+            "name": "default",
             "values": [
-                "Default"
+                "Default",
+                "Default1"
             ]
         }
     ],
